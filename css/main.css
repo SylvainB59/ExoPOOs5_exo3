@@ -97,6 +97,28 @@ textarea {
 
 /*start of common rules*/
 
+header, .mainSection {
+    text-align: center;
+}
+
+.zoneForm {
+    background-color: #87CEFA;
+}
+
+.formulaire {
+    /*background-color: grey;*/
+    /*border: 1px solid black;*/
+    /*border-radius: 5px;*/
+}
+
+.submit {
+    width: 100px;
+    margin: auto;
+    background-color: lightgrey;
+    border: 1px solid black;
+    padding: 10px;
+}
+
 /*Enc of common rules*/
 
 /*START OF HEADER*/
